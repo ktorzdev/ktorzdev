@@ -3,7 +3,6 @@
 # Hi, welcome. I'm Alan Robson :wave:
 
 - :earth_americas: Living in São Paulo, Brazil
-- :briefcase: I am currently working as a Backoffice Analyst at [DXC.Technology](https://dxc.com/br/pt)
 - :man_student: Bachelor of Computer Science
 - :computer: Beginner in Front-end Development
 - :rocket: Studying at Rocketseat.
